@@ -1,0 +1,45 @@
+@charset "UTF-8";
+
+.positive{
+	background-color: lightgreen;
+	text-align: center;
+	width: 550px;
+	padding: 10px 80px 80px 80px;
+	margin: auto;
+}
+
+.table-container {
+	text-align:center;
+	justify-content: center;
+	align-items: center;
+	background-color: lightgreen;
+	width: 550px;
+	padding: 10px 80px 80px 80px;
+	margin: auto;
+}
+
+table {
+	margin: 0 auto;
+}
+
+.posButton{
+	border: none;
+	text-decoration: underline;
+	background-color: lightgreen;
+	color:blue;
+}
+
+.negative{
+	text-align: center;
+	background-color: orange;
+	width: 550px;
+	padding: 10px 80px 80px 80px;
+	margin: auto;
+}
+
+.negButton{
+	border: none;
+	text-decoration: underline;
+	background-color: orange;
+	color:blue;
+}
